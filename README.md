@@ -2,6 +2,14 @@
 
 > 音乐播放器
 
+# 技术栈
+
+- vue2 + vuex + vue-router 
+- vue-cli + webpack  
+- vue-lazyload (图片懒加载)
+- better-scroll(移动端滑动)
+- axios(服务代理)
+
 ## Build Setup
 
 ``` bash
