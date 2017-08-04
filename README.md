@@ -2,7 +2,7 @@
 
 > 音乐播放器
 
-# 技术栈
+## 技术栈
 
 - vue2 + vuex + vue-router 
 - vue-cli + webpack  
